@@ -45,3 +45,15 @@ Tommaso Venturini.
 In this manner, MEDEA aims to support policy development and public debate
 on adaptation and to provide a relevant contribution to the understanding of
 the processes underlying the adaptation and governance.
+
+## Attribution
+
+[MEDEA Project][] [CC-BY][] [Arts Déco][] & [Sciences Po][]
+
+[MEDEA Project]: http://www.projetmedea.fr/
+[CC-BY]: https://creativecommons.org/licenses/by/4.0/
+         "Creative Commons Attribution 4.0 International"
+[Arts Déco]: http://www.ensad.fr/en
+             "École Nationale Supérieure des Arts Décoratifs"
+[Sciences Po]: http://www.medialab.sciences-po.fr/
+               "Sciences Po Médialab"
