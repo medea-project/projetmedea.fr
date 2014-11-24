@@ -1,0 +1,57 @@
+/* general css */
+
+.no-padding {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* menu css */
+
+.navbar-border {
+  background-color: black;
+  height: 8px;
+}
+
+.navbar-top {
+  margin-bottom: 25px !important;
+}
+
+.navbar-header .menu {
+  padding-left: 10px;
+}
+
+.navbar-header .logo {
+  padding-right: 10px;
+}
+
+/* view1 css */
+
+.view1 .row:first-child {
+  border-bottom: 1px solid #C5C5C5;
+  padding-bottom: 100px;
+}
+
+.view1 .menu-lateral {
+  padding-top: 20px;
+}
+
+.view1 .menu-lateral li {
+  border-top: 1px solid #C5C5C5;
+  list-style: none;
+  padding: 5px 0;
+}
+.view1 .menu-lateral li:last-child {
+  border-bottom: 1px solid #C5C5C5;
+}
+
+.view1 .chapter-number {
+  padding-top: 10px;
+}
+
+.view1 .chapter-title {
+  padding-top: 20px;
+}
+
+.view1 .chapter-content {
+  padding-top: 20px;
+}
